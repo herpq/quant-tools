@@ -2,7 +2,7 @@
 
 Just some stuff I made a long time ago - never bothered to clean up and open source, but why not.
 
-Everything is written in python / jupyter notebook
+Everything is written in python / jupyter notebook. Example here: https://github.com/HypeQuant/quant-tools/blob/main/seasonality.ipynb
 
 # Running the code
 Things you need to install (probably more req - not exhaustive)
